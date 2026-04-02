@@ -1,0 +1,8 @@
+metric,value
+adf_statistic,-3.3286536893327083
+p_value,0.013645239410032857
+used_lags,20.0
+n_obs,1419.0
+critical_value_1pct,-3.434966750462565
+critical_value_5pct,-2.8635789736973725
+critical_value_10pct,-2.5678555388041384

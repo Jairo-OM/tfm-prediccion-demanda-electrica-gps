@@ -1,0 +1,3 @@
+model,order,seasonal_order,exogenous_variables,enforce_stationarity,enforce_invertibility
+"ARIMA(1,1,1)","(1, 1, 1)",None,No,False,False
+"SARIMAX(1, 1, 1)","(1, 1, 1)",None,"t_mean_c, t_max_c, t_min_c, rh_mean_pct, precip_mm, sun_hours, sst_c, dow, is_weekend, is_business_day, is_holiday, is_pre_holiday, is_post_holiday, is_long_weekend",False,False

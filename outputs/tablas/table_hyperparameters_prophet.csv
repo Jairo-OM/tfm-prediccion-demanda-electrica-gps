@@ -1,0 +1,2 @@
+model,yearly_seasonality,weekly_seasonality,daily_seasonality,seasonality_mode,changepoint_prior_scale,seasonality_prior_scale,holidays_included,regressors
+Prophet,True,True,False,additive,0.05,10.0,True,"t_mean_c, t_max_c, t_min_c, rh_mean_pct, precip_mm, sun_hours, sst_c, is_weekend, is_business_day, is_holiday, is_pre_holiday, is_post_holiday, is_long_weekend"

@@ -1,0 +1,2 @@
+model,lookback,lstm_units,dropout,dense_units,optimizer,loss,epochs_max,batch_size,validation_split,early_stopping_patience
+LSTM,14,64,0.2,32,adam,mse,100,32,0.1,10

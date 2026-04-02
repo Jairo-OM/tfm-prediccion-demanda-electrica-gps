@@ -1,0 +1,4 @@
+candidate_model,justification
+"ARIMA(0,1,1)",Pico significativo en ACF en rezago 1 y rápida disipación posterior.
+"ARIMA(1,1,0)",Pico significativo en PACF en rezago 1 y decaimiento posterior.
+"ARIMA(1,1,1)",Modelo parsimonioso de comparación que combina componentes AR y MA.
